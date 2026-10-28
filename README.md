@@ -1,6 +1,6 @@
 # İz — Günün Dosyası
 
-Mobil öncelikli, Türkçe dedektiflik oyunu. Beş ayrı dosyada görsel kanıtları, mesajları ve kayıtları inceleyip çelişkiyi bulursun. Günün dosyası İstanbul saatine göre her gün değişir; arşivdeki dosyalar her zaman oynanabilir.
+Mobil öncelikli, Türkçe dedektiflik oyunu. Dört ayrı dosyada görsel kanıtları, mesajları ve kayıtları inceleyip olayın iki parçasını çözersin. Günün dosyası İstanbul saatine göre her gün değişir; arşivdeki dosyalar her zaman oynanabilir.
 
 Oyun sahne sahne ilerler. Her sahnenin Türkçe ElevenLabs anlatımı vardır; altyazı isteğe bağlı açılır. Arka plan müziği tarayıcıda üretilir, sesi ayarlanabilir ve tamamen kapatılabilir.
 
@@ -16,8 +16,8 @@ Sonra `http://localhost:4173` adresini aç.
 
 ## İçerik
 
-- 5 oynanabilir dosya, 21 kanıt sahnesi
-- Her dosyada 2 kademeli ipucu ve gerekçeli sonuç
+- 4 oynanabilir dosya, 32 kanıt sahnesi
+- Her dosyada iki parçalı karar, 2 kademeli ipucu ve gerekçeli sonuç
 - Mobil uyumlu sahne akışı, görsel kanıtlar, sesli anlatım ve spoilersız paylaşım
 - Sonuçlar tarayıcının yerel depolamasında saklanır
 
